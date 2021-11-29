@@ -29,7 +29,9 @@ Hi👋, I’m ayla Kim and I'm major in Cyber Security. Welcome to my Github!
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayla-12&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayla-12&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 ayla-12/ayla-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
