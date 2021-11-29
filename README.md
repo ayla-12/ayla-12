@@ -14,8 +14,8 @@ Hi👋, I’m ayla Kim and I'm major in Cyber Security. Welcome to my Github!
 
 ### My Interests
 **Language**
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Java-#007396?style=flat&logo=&logoColor=#007396"/></a>
 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayla-12&show_icons=true&theme=radical)
