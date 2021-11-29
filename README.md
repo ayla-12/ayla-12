@@ -1,10 +1,16 @@
-## If you wanna change, BE NOT AFFRAID
+## _If you wanna change, BE NOT AFFRAID_
 
 Hi👋, I’m ayla Kim and I'm major in Cyber Security. Welcome to my Github!
 
-### Education
+### My Education
+`Graduated(2017-2020)`: Busan Girls High School
+`Attending(2020~ing)` : 🌸Ewha Womans University 
+`Major Field` : 🔒Cyber Security
+`Double Major` : 🌏North Korean Studies
 
-dd
+### My Interests
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayla-12&show_icons=true&theme=radical)
