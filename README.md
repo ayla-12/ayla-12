@@ -28,6 +28,7 @@ Hi👋, I’m ayla Kim and I'm major in Cyber Security. Welcome to my Github!
 
 
 
+### Widget
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayla-12&show_icons=true&theme=dark)
 
