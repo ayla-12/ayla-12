@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ayla-12
-- 👀 I’m interested in Security.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## HI
+---
+👋 Hi, I’m @ayla-12
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayla-12&show_icons=true&theme=radical)
 
