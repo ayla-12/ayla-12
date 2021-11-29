@@ -4,9 +4,13 @@ Hi👋, I’m ayla Kim and I'm major in Cyber Security. Welcome to my Github!
 
 ### My Education
 `Graduated(2017-2020)`: Busan Girls High School
+
 `Attending(2020~ing)` : 🌸Ewha Womans University 
+
 `Major Field` : 🔒Cyber Security
+
 `Double Major` : 🌏North Korean Studies
+
 
 ### My Interests
 
